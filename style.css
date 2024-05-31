@@ -1,6 +1,5 @@
 .local iframe{
     border: 2px solid black;
-    width: 40%;
     height: 150px;
     overflow: auto;
 }
